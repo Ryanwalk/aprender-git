@@ -1,1 +1,1 @@
-ola mundo
+print("hello, world");
